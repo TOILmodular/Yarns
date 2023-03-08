@@ -38,6 +38,10 @@ Concerning the resistor size, I am usually using small-size resistors, about hal
 
 The original version from Mutable Instruments is using the OPA4171 quad op amp for the 4 CV output channels. The component was not available at the time, when I built the module, I tried it with the TL074 quad op amp. The pinout is the same, so it can easily replaced. However, it turned out that the module also works with the TL074.
 
+The connection between the two DIN sockets (MIDI in and MIDI out) need to be done via cables or wire. I used some cut-off wires from the resistor legs, as shown in the photos.
+
+<img src="https://user-images.githubusercontent.com/97026614/223745359-48be0a93-28bd-4e39-a4ab-bc4f0b771a85.jpeg" width="300px">  <img src="https://user-images.githubusercontent.com/97026614/223745402-1c278206-f033-4aa8-bd8c-6516cb1f8507.jpeg" width="300px">
+
 ## Firmware
 I shared the .hex files for the STM32F103 chip (bootloader and main) in the folder Firmware.
 Those files and the schematic differ from the originals from Mutable Instruments.
