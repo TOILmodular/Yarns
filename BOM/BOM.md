@@ -9,7 +9,7 @@
 | Resistor 1/4W | 10K | 1 | |
 | Resistor 1/4W | 47K | 6 | |
 | Resistor 1/4W | 240K | 4 | |
-| Resistor 1/4W | "LED" | 4 | Choose a value that fits to your LED - see ReadMe file |
+| Resistor 1/4W | LED 1-4 | 4 | depending on the LED used - I used 10K for OSB5DL3E34B (LED part no.) |
 | Capacitor Electrolytic | 22uF | 2 | |
 | Capacitor Electrolytic | 10uF | 2 | |
 | Capacitor Ceramic | 3.3uF | 1 | |
