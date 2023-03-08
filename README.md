@@ -81,7 +81,7 @@ Surprisingly, the programmer showed 128kB available flash memory, and the code c
 I tried it with several boards.
 So it seems STM3F103C8 is ok for this module.
 
-If you want to see more about the chip programming process, you can check out my [YouTube video](xxxxxxxxxx).
+If you want to see more about the chip programming process, you can check out my [YouTube video](https://youtu.be/TBMySGm7jKk) about my other MI clone build of the Braids module. The process described in there is also valid for the Yarns module.
 
 ![Yarns](https://user-images.githubusercontent.com/97026614/223657089-82efd055-cdff-4eb9-b70a-7c2a5eb571f1.jpeg)
 
