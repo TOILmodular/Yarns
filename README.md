@@ -65,6 +65,8 @@ If you want to compile your own .hex files, you need to search the texts in the 
 | encoder.h | Pin_15 | Pin_0 |
 | encoder.h | GPIOC | GPIOA |
 
+If you want to see more about the chip programming process, you can check out my [YouTube video](https://youtu.be/TBMySGm7jKk) about my other MI clone build of the Braids module. The process described in there is also valid for the Yarns module.
+
 ## STM32F103 Version
 CAUTION! There are three different versions of the Blue Pill board available.
 The difference is the version of the ST32F103 microchip on the board.
@@ -80,8 +82,6 @@ I gave it a try and bought the 64kB version.
 Surprisingly, the programmer showed 128kB available flash memory, and the code could be loaded.
 I tried it with several boards.
 So it seems STM3F103C8 is ok for this module.
-
-If you want to see more about the chip programming process, you can check out my [YouTube video](https://youtu.be/TBMySGm7jKk) about my other MI clone build of the Braids module. The process described in there is also valid for the Yarns module.
 
 ![Yarns](https://user-images.githubusercontent.com/97026614/223657089-82efd055-cdff-4eb9-b70a-7c2a5eb571f1.jpeg)
 
