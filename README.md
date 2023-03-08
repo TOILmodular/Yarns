@@ -19,8 +19,6 @@ The layout of the main PCB is the same for both versions.
 I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB.
 I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
 
-If you want to know about my DIY building process, take a look at [this YouTube video](xxxxxxxx).
-
 ## Panel Layout
 I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files.
 
@@ -41,6 +39,10 @@ The original version from Mutable Instruments is using the OPA4171 quad op amp f
 The connection between the two DIN sockets (MIDI in and MIDI out) need to be done via cables or wire. I used some cut-off wires from the resistor legs, as shown in the photos.
 
 <img src="https://user-images.githubusercontent.com/97026614/223745359-48be0a93-28bd-4e39-a4ab-bc4f0b771a85.jpeg" width="300px">  <img src="https://user-images.githubusercontent.com/97026614/223745402-1c278206-f033-4aa8-bd8c-6516cb1f8507.jpeg" width="300px">
+
+The numbers of the pin labels on the control PCB refer to the pin numbers of the sockets. E.g. MIDI OUT5 needs to be connected to pin 5 of the MIDI output socket. The numbering of socket pins are given in the graph below.
+
+<img src="https://user-images.githubusercontent.com/97026614/223753028-2cfd518f-4616-40f8-bb37-e06b050f2a99.png" width="300px">
 
 ## Firmware
 I shared the .hex files for the STM32F103 chip (bootloader and main) in the folder Firmware.
