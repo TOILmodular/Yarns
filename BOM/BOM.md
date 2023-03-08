@@ -32,7 +32,7 @@
 | Switch | Tactile | 3 | e.g. Mouser: TL1105SPF160 |
 | LED module | 14 segments, common cathode | 1 | e.g. Mouser: KINGBRIGHT PDC54-11 ||
 | Development Board | STM32F103 Blue Pill | 1 | See section "STM32F103 Version" in ReadMe file |
-| DIN Connector | 5 Pin Female | 2 | |
+| DIN Connector | 5 Pin Female | 2 | e.g. Mouser: 57GB5FX |
 | Header | 2.54mm Female 1x20 | 2 | Socket Connector for Blue Pill Board |
 | Header | 2.54mm Male 1x19 | 1 | Connector Main Board |
 | Header | 2.54mm Male 1x11 | 2 | Connector Main Board |
