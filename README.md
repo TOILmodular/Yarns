@@ -1,6 +1,10 @@
 # Yarns - MIDI Interface for Eurorack
 A clone of the Mutable Instruments Yarns with the use of the STM32 Blue Pill.
 
+<img height="500" src="https://user-images.githubusercontent.com/97026614/223657089-82efd055-cdff-4eb9-b70a-7c2a5eb571f1.jpeg"> <img height="500" src="https://user-images.githubusercontent.com/97026614/223657125-6b767e3e-1bdc-40aa-a2dd-f709823024fb.jpeg">
+
+<img height="500" src="https://user-images.githubusercontent.com/97026614/223657164-ab034583-c9b3-4876-a634-69e908206191.jpeg"> <img height="500" src="https://user-images.githubusercontent.com/97026614/223657198-960ad1d0-c098-48db-9bb1-e8eee3b7d0b6.jpeg">
+
 ## Module Build and PCBs
 If you want to build the module yourself, I uploaded firmware, schematic, BOM and Gerber files for the PCBs.
 
@@ -11,10 +15,16 @@ More details are given below in section Firmware.
 There are two different versions for the control board, an "original" and a "Thonk" version.
 Reason is that for my own module I am using specific 3.5mm jack sockets - MJ-355 from Marushin - available at my local electronics shop.
 
+<img width="300" alt="CtrlBoard_Orig_Front" src="https://user-images.githubusercontent.com/97026614/223882409-a0e01bbb-1429-45ac-9db1-6acc8be54e8c.png">
+
 However, since most DIY projects for Eurorack modules out there are using potentiometers from ALPHA and so-called THONKICONN jacks, as they are provided by Thonk in the UK, I also created a control PBC version with footprints for those components.
 Choose the one you need.
 
+<img width="300" alt="CtrlBoard_Thonk_Front" src="https://user-images.githubusercontent.com/97026614/223657314-b8215264-4f26-43f3-bc7c-962a51cc4c66.png">
+
 The layout of the main PCB is the same for both versions.
+
+<img width="300" alt="MainBoard_Back" src="https://user-images.githubusercontent.com/97026614/223657241-768dcd3b-16e5-4eb8-83ff-713927b73ea8.png">
 
 I created the Gerber files with the online tool EasyEDA and ordered it at JLCPCB.
 I cannot guarantee, if this set of zipped Gerber files works also for other providers, like e.g. PCBWay. I have not tried that. But I saw online, that others did it.
@@ -82,19 +92,3 @@ I gave it a try and bought the 64kB version.
 Surprisingly, the programmer showed 128kB available flash memory, and the code could be loaded.
 I tried it with several boards.
 So it seems STM3F103C8 is ok for this module.
-
-![Yarns](https://user-images.githubusercontent.com/97026614/223657089-82efd055-cdff-4eb9-b70a-7c2a5eb571f1.jpeg)
-
-![YarnsFront](https://user-images.githubusercontent.com/97026614/223657125-6b767e3e-1bdc-40aa-a2dd-f709823024fb.jpeg)
-
-![YarnsSide](https://user-images.githubusercontent.com/97026614/223657164-ab034583-c9b3-4876-a634-69e908206191.jpeg)
-
-![YarnsBack](https://user-images.githubusercontent.com/97026614/223657198-960ad1d0-c098-48db-9bb1-e8eee3b7d0b6.jpeg)
-
-<img width="468" alt="MainBoard_Back" src="https://user-images.githubusercontent.com/97026614/223657241-768dcd3b-16e5-4eb8-83ff-713927b73ea8.png">
-
-<img width="468" alt="MainBoard_Front" src="https://user-images.githubusercontent.com/97026614/223657272-227047c8-df13-4940-a5fc-a140fb333b31.png">
-
-<img width="659" alt="CtrlBoard_Thonk_Front" src="https://user-images.githubusercontent.com/97026614/223657314-b8215264-4f26-43f3-bc7c-962a51cc4c66.png">
-
-<img width="661" alt="CtrlBoard_Thonk_Back" src="https://user-images.githubusercontent.com/97026614/223657350-6d442733-ca9f-43e4-a92a-9de6ece7a30c.png">
