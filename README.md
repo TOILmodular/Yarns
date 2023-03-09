@@ -1,5 +1,5 @@
 # Yarns - MIDI Interface for Eurorack
-A clone of the Mutable Instruments Yarns with the use of the STM32 Blue Pill.
+A clone of the Mutable Instruments Yarns module with the use of the STM32 Blue Pill.
 
 <img height="500" src="https://user-images.githubusercontent.com/97026614/223657089-82efd055-cdff-4eb9-b70a-7c2a5eb571f1.jpeg"> <img height="500" src="https://user-images.githubusercontent.com/97026614/223657125-6b767e3e-1bdc-40aa-a2dd-f709823024fb.jpeg">
 
