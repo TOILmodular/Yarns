@@ -33,7 +33,7 @@ I cannot guarantee, if this set of zipped Gerber files works also for other prov
 I added the information about hole coordinates for the front panel in the folder PanelLayout, referring to the component layout in the Gerber files.
 
 ## Additional Information about specific Components
-Most of the components are through-hole, including the microchip part, thanks to the available Blue Pill board. However, there are a few components, which I did not find as THT version, or which I got used to use them frequently (like bypass caps for ICs and NPN transistors).
+Most of the components are through-hole, including the microchip part, thanks to the available Blue Pill board. However, there are a few components, which I did not find as THT version, or which I got used to due to frequent usage in other projects (like bypass caps for ICs and NPN transistors).
 The SMD components are:
 - DAC8564 (DAC, 16-TSSOP package, the most challenging component due to its size)
 - LM1117-3.3 (voltage regulator, SOT223 package)
