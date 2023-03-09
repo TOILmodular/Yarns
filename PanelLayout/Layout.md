@@ -31,11 +31,11 @@ Coordinates origin is the lower left corner of the panel.
 | 15 | 20.5 | 42 | |
 | 16 | 31.5 | 42 | |
 | 17 | 43 | 42 | |
-| 18 | 6.15 | 29.85 | Mounting hole for Din Connector 57GB5FX |
+| 18 | 6 | 30 | Mounting hole for Din Connector 57GB5FX |
 | 19 | 14 | 22 | |
-| 20 | 21.85 | 14.15 | Mounting hole for Din Connector 57GB5FX |
-| 21 | 30.15 | 14.15 | Mounting hole for Din Connector 57GB5FX |
+| 20 | 22 | 14 | Mounting hole for Din Connector 57GB5FX |
+| 21 | 30 | 14 | Mounting hole for Din Connector 57GB5FX |
 | 22 | 38 | 22 | |
-| 23 | 45.85 | 29.85 | Mounting hole for Din Connector 57GB5FX |
+| 23 | 46 | 30 | Mounting hole for Din Connector 57GB5FX |
 
 ![Panel](https://user-images.githubusercontent.com/97026614/223692954-4e899adf-e36d-4aba-8087-6218ee39ac6d.png)
