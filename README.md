@@ -60,7 +60,7 @@ Those files and the schematic differ from the originals from Mutable Instruments
 Reason is the use of the Blue Pill board, as the chip's pins C13, C14, and C15 are already occupied on the Blue Pill board.
 But the original design from Mutable Instruments is using them for the encoder.
 
-Therefore, I changed the coding in three source code files, so that instead pins A0, A1, and A2 are used, which are not in use in the original design.
+Therefore, I changed the coding in two source code files, so that instead pins A0, A1, and A2 are used, which are not in use in the original design.
 In my version, the following original source code files have been adjusted:
 - encoder.cc (in subfolder /drivers)
 - encoder.h (in subfolder /drivers)
