@@ -44,7 +44,7 @@ The SMD components are:
 
 Concerning the resistor size, I am usually using small-size resistors, about half the length of the usual size, so they need less space on the PCB. If you want to use my Gerber files, you have to consider tht fact. You might still use normal size resistors and put them in a standing position on the boards. Should also work fine.
 
-The original version from Mutable Instruments is using the OPA4171 quad op amp for the 4 CV output channels. The component was not available at the time, when I built the module, I tried it with the TL074 quad op amp. The pinout is the same, so it can easily be replaced. However, it turned out that the module also works with the TL074.
+The original version from Mutable Instruments is using the OPA4171 quad op amp for the 4 CV output channels. The component was not available at the time, when I built the module. I tried it with the TL074 quad op amp. The pinout is the same, so it can easily be replaced. It turned out that the module also works with the TL074.
 
 The connection between the two DIN sockets (MIDI in and MIDI out) needs to be done via cables or wire. I used some cut-off wires from the resistor legs, as shown in the photos.
 
