@@ -15,27 +15,27 @@ Coordinates origin is the lower left corner of the panel.
 | 1B | 28 | 108.7 | Corner coordinates |
 | 1C | 4 | 93.5 | Corner coordinates |
 | 1D | 28 | 93.5 | Corner coordinates |
-| 2 | 12 | 101 | |
-| 3 | 10 | 80 | |
-| 4 | 26 | 80 | |
-| 5 | 42 | 80 | |
-| 6 | 9 | 67 | |
-| 7 | 20.5 | 67 | |
-| 8 | 31.5 | 67 | |
-| 9 | 43 | 67 | |
-| 10 | 9 | 57 | |
-| 11 | 20.5 | 57 | |
-| 12 | 31.5 | 57 | |
-| 13 | 43 | 57 | |
-| 14 | 9 | 42 | |
-| 15 | 20.5 | 42 | |
-| 16 | 31.5 | 42 | |
-| 17 | 43 | 42 | |
-| 18 | 6 | 30 | Mounting hole for Din Connector 57GB5FX |
-| 19 | 14 | 22 | |
-| 20 | 22 | 14 | Mounting hole for Din Connector 57GB5FX |
-| 21 | 30 | 14 | Mounting hole for Din Connector 57GB5FX |
-| 22 | 38 | 22 | |
-| 23 | 46 | 30 | Mounting hole for Din Connector 57GB5FX |
+| 2 | 12 | 101 | Encoder |
+| 3 | 10 | 80 | Tactile Switch |
+| 4 | 26 | 80 | Tactile Switch |
+| 5 | 42 | 80 | Tactile Switch |
+| 6 | 9 | 67 | LED |
+| 7 | 20.5 | 67 | LED |
+| 8 | 31.5 | 67 | LED |
+| 9 | 43 | 67 | LED |
+| 10 | 9 | 57 | Jack |
+| 11 | 20.5 | 57 | Jack |
+| 12 | 31.5 | 57 | Jack |
+| 13 | 43 | 57 | Jack |
+| 14 | 9 | 42 | Jack |
+| 15 | 20.5 | 42 | Jack |
+| 16 | 31.5 | 42 | Jack |
+| 17 | 43 | 42 | Jack |
+| 18 | 6 | 30 | Mounting hole for Din Socket |
+| 19 | 14 | 22 | Din 5 Socket 57GB5FX |
+| 20 | 22 | 14 | Mounting hole for Din Socket |
+| 21 | 30 | 14 | Mounting hole for Din Socket |
+| 22 | 38 | 22 | Din 5 Socket 57GB5FX |
+| 23 | 46 | 30 | Mounting hole for Din Socket |
 
 ![Panel](https://user-images.githubusercontent.com/97026614/223692954-4e899adf-e36d-4aba-8087-6218ee39ac6d.png)
