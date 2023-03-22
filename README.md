@@ -75,7 +75,7 @@ If you want to compile your own .hex files, you need to search the texts in the 
 | encoder.h | Pin_15 | Pin_0 |
 | encoder.h | GPIOC | GPIOA |
 
-If you want to see more about the chip programming process, you can check out my [YouTube video](https://youtu.be/TBMySGm7jKk) about my other MI clone build of the Braids module. The process described in there is also valid for the Yarns module.
+If you want to see more about the chip programming process, you can check out my [YouTube video](https://youtu.be/TBMySGm7jKk) about my other MI clone build of the Braids module. The process described in there is also valid for the Yarns module. You can also check my [YouTube video](https://youtu.be/JyCg-v-TcFA) about this module.
 
 ## STM32F103 Version
 CAUTION! There are three different versions of the Blue Pill board available.
