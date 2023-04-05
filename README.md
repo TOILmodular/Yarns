@@ -92,3 +92,27 @@ I gave it a try and bought the 64kB version.
 Surprisingly, the programmer showed 128kB available flash memory, and the code could be loaded.
 I tried it with several boards.
 So it seems STM3F103C8 is ok for this module.
+
+## Calibration
+The calibration procedure is the same, as the one for the original module from Mutable Instruments.
+A multimeter with at least 4 1/2 digits of precision is needed.
+
+To enter the calibration menu, press the encoder for one second and select *C(ALIBRATE)* in the list. The display shows the active CV output.
+
+Use the encoder to select the output to calibrate, or select OK to exit the calibration mode.
+
+Once a CV output has been selected, connect a patch cable from this output to your multimeter. The display indicates the voltage, in Volts, that should be read on the multimeter (-3 at the beginning of the procedure), when measuring the voltage between ground and the CV output of the module.
+
+If the reading is incorrect, click the encoder (the display blinks), and rotate the encoder until the target voltage is reached.
+
+Each increment corresponds to about 0.2mV. You can also hold the TAP button while rotating the encoder for a faster adjustment, by 6mV increments.
+
+Click the encoder when you are done - the display no longer blinks.
+
+Select the next voltage in the list, and do the necessary adjustments.
+
+Calibration has to be done for all voltages between -3V and +7V.
+
+Select "OK" after the last voltage has been adjusted. The part selection menu is shown.
+
+Calibrate the other CV output channels if necessary.
