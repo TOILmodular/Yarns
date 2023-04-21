@@ -81,9 +81,9 @@ If you want to see more about the chip programming process, you can check out my
 CAUTION! There are three different versions of the Blue Pill board available.
 The difference is the version of the ST32F103 microchip on the board.
 The versions differ in the flash memory size:
-- STM32F103C6: 32kB flash memory
-- STM32F103C8: 64kB flash memory
-- STM32F103CB: 128kB flash memory
+- STM32F103C6T6: 32kB flash memory
+- STM32F103C8T6: 64kB flash memory
+- STM32F103CBT6: 128kB flash memory
 
 The code size requires the 128kB version.
 However, that version is currently (Feb2023) difficult to find, if available at all.
@@ -91,7 +91,7 @@ However, that version is currently (Feb2023) difficult to find, if available at 
 I gave it a try and bought the 64kB version.
 Surprisingly, the programmer showed 128kB available flash memory, and the code could be loaded.
 I tried it with several boards.
-So it seems STM3F103C8 is ok for this module.
+So it seems STM3F103C8T6 is ok for this module.
 
 ## Calibration
 The calibration procedure is the same, as the one for the original module from Mutable Instruments.
