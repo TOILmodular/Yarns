@@ -42,7 +42,7 @@ The SMD components are:
 - MMBT3904 (SMD version of the 2N3904 transistor, SOT23 Package)
 - 0.1uF bypass caps for ICs (1608 package)
 
-Concerning the resistor size, I am usually using small-size resistors, about half the length of the usual size, so they need less space on the PCB. If you want to use my Gerber files, you have to consider tht fact. You might still use normal size resistors and put them in a standing position on the boards. Should also work fine.
+Concerning the resistor size, I am usually using small-size resistors, about half the length of the usual size, so they need less space on the PCB. If you want to use my Gerber files, you have to consider that fact. You might still use normal size resistors and put them in a standing position on the boards. Should also work fine.
 
 The original version from Mutable Instruments is using the OPA4171 quad op amp for the 4 CV output channels. The component was not available at the time, when I built the module. I tried it with the TL074 quad op amp. The pinout is the same, so it can easily be replaced. It turned out that the module also works with the TL074.
 
