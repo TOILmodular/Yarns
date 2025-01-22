@@ -19,13 +19,13 @@
 | Diode | 1N4148 | 1 | |
 | Diode | LED | 4 | |
 | Transistor | MMBT3904 | 2 | SMD (SOT-23) |
-| Op Amp | OPA4147 | 1 | alternative TL074 |
-| Shift Register | 74HC595 | 2 | SMD (SOT-235) |
-| Buffer | SN74AHCT1G125 | 4 | |
+| Op Amp | OPA4171 | 1 | alternative TL074 |
+| Shift Register | 74HC595 | 2 | |
+| Buffer | SN74AHCT1G125 | 4 | SMD (SOT-23) |
 | Optocoupler | 6N137 | 4 | |
-| DAC | DAC8564 | 1 | SMD (16-VSSOP) |
+| DAC | DAC8564 | 1 | SMD (16-TSSOP) |
 | Voltage Regulator | LM1117-3.3 | 1 | SMD (SOT-223) |
-| Voltage Regulator | MCP1703 | 1 | SMD (SOT-23) |
+| Voltage Regulator | MCP1703 | 1 | 5V, SMD (SOT-223) |
 | Voltage Regulator | REF02 | 1 | |
 | Encoder | 24 steps w/clicks w/switch | 1 | |
 | Mono Jack | 3.5mm | 8 | |
